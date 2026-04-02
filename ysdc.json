@@ -1,40 +1,43 @@
 {
     "urls": [
     {
-      "name": "🍈自用仓库",
-      "url": "http://liucn.cc/box/dc.txt"
+	"url": "http://liucn.cc/box/dc.txt"
+    "name": "🍈自用仓库",
+     
     },
     {
-      "name": "🍎欧歌仓库",
-      "url": "https://xn--9ff9-rp5imh.v.nxog.top/nxog/oua.php?b=9f欧歌f9"
+     "url": "https://xn--9ff9-rp5imh.v.nxog.top/nxog/oua.php?b=9f欧歌f9"
+	 "name": "🍎欧歌仓库",
     },
     {
-      "name": "🥭木鱼仓库",
-      "url": "https://d.kstore.dev/download/12020/ck.json"
+	"url": "https://d.kstore.dev/download/12020/ck.json"
+    "name": "🥭木鱼仓库",
     },
     {
-      "name": "🍍云星仓库",
-      "url": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
+    "url": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
+	"name": "🍍云星仓库",
     },
     {
+	"url": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json"
       "name": "🍉砂锅仓库",
-      "url": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json"
+      
     },
     {
-      "name": "🍐吾爱仓库",
-      "url": "http://liucn.cc/box/d2.txt"
+	"url": "http://liucn.cc/box/d2.txt"
+     "name": "🍐吾爱仓库",
+      
     }, 
    {
-      "name": "🍑天微仓库",
       "url": "https://tvkj.top/DC.txt"
+	   "name": "🍑天微仓库",
     },
    {
-      "name": "🥝多多仓库",
-      "url": "http://liucn.cc/bs/d4.txt"
+     "url": "http://liucn.cc/bs/d4.txt"
+	 "name": "🥝多多仓库",
     },
     {
-      "name": "☘️雷电/tvbox/dc.txt",
-      "url": "clan://localhost/Pictures/tvbox/dc.txt"
+    "url": "clan://localhost/Pictures/tvbox/dc.txt"
+	"name": "☘️雷电/tvbox/dc.txt",
     },  
       {
       "url": "http://www.cttv.vip/ys/json/ctys.json",
