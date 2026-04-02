@@ -1,46 +1,45 @@
 {
     "urls": [
     {
-      "sourceName": "🍈自用仓库",
-      "sourceUrl": "http://liucn.cc/box/dc.txt"
+      "name": "🍈自用仓库",
+      "url": "http://liucn.cc/box/dc.txt"
     },
     {
-      "sourceName": "🍎欧歌仓库",
-      "sourceUrl": "https://xn--9ff9-rp5imh.v.nxog.top/nxog/oua.php?b=9f欧歌f9"
+      "name": "🍎欧歌仓库",
+      "url": "https://xn--9ff9-rp5imh.v.nxog.top/nxog/oua.php?b=9f欧歌f9"
     },
     {
-      "sourceName": "🥭木鱼仓库",
-      "sourceUrl": "https://d.kstore.dev/download/12020/ck.json"
+      "name": "🥭木鱼仓库",
+      "url": "https://d.kstore.dev/download/12020/ck.json"
     },
     {
-      "sourceName": "🍍云星仓库",
-      "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
+      "name": "🍍云星仓库",
+      "url": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
     },
     {
-      "sourceName": "🍉砂锅仓库",
-      "sourceUrl": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json"
+      "name": "🍉砂锅仓库",
+      "url": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json"
     },
     {
-      "sourceName": "🍐吾爱仓库",
-      "sourceUrl": "http://liucn.cc/box/d2.txt"
+      "name": "🍐吾爱仓库",
+      "url": "http://liucn.cc/box/d2.txt"
     }, 
    {
-      "sourceName": "🍑天微仓库",
-      "sourceUrl": "https://tvkj.top/DC.txt"
+      "name": "🍑天微仓库",
+      "url": "https://tvkj.top/DC.txt"
     },
    {
-      "sourceName": "🥝多多仓库",
-      "sourceUrl": "http://liucn.cc/bs/d4.txt"
+      "name": "🥝多多仓库",
+      "url": "http://liucn.cc/bs/d4.txt"
     },
     {
-      "sourceName": "☘️雷电/tvbox/dc.txt",
-      "sourceUrl": "clan://localhost/Pictures/tvbox/dc.txt"
+      "name": "☘️雷电/tvbox/dc.txt",
+      "url": "clan://localhost/Pictures/tvbox/dc.txt"
     },  
       {
       "url": "http://www.cttv.vip/ys/json/ctys.json",
       "name": "刺桐接口（自营）"
     },
-
     {
       "url": "http://www.饭太硬.com/tv",
       "name": "饭太硬接口（2026.1.19更新）"
