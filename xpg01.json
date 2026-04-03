@@ -16,7 +16,14 @@
             "ext": "{\"path\":\"http://h.9box.store/box/recommend.json\"}",
             "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c"
         },
-
+    {
+      "key": "农民影视",
+      "name": "🍎小苹果",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar",
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
         {
             "key": "jp",
             "name": "🍎备份源二",
