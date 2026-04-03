@@ -20,13 +20,10 @@
             "key": "小苹果",
             "name": "🍎苹果源",
             "type": 3,
-            "playerType": "2",
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
-            "filterable": 1
-        },
+            "api": "csp_Wwys",
+             "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar"
+            "ext": "https://vip.wwgz.cn:5200"
+    },
         {
             "key": "jp",
             "name": "🍎备份源二",
