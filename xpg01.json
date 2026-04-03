@@ -57,32 +57,53 @@
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       }
     },
+    {
+      "key": "星星",
+      "name": "🍎备份源三",
+      "type": 3,
+    "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/chuanshuo.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "手机",
+        "主页url": "https://www.guosheji.com/",
+        "数组": "myui-vodlist__thumb&&</a>",
+        "简介": "简介：&&</a>",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "线路数组": "href=\"stui-pannel__head clearfix\"&&</li>",
+        "线路标题": "&&",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "text-right\">&&</span>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "#playlist&&</li>[不包含:秒播]",
+        "线路标题": "+>&&</a>+",
+        "播放数组": "<ul class=\"myui-content__list&&</ul>",
+        "播放标题": ">&&</a>[不包含:дрр滈凊]",
+        "播放列表": "<li&&</li>",
+        "跳转解析": "默认$https://jiexi.ddmz6.com/api/publicApi.php?url=",
+        "搜索url": "https://www.guosheji.com/xingsc/{wd}-------------.html",
+        "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "分类url": "https://www.guosheji.com/xingsw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak"
+      }
+    },
+    {
+      "key": "热播影视",
+      "name": "🍎备份源四",
+      "type": 3,
+    "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/qxyc.jar",
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
 
-        {
-            "key": "gz",
-            "name": "🍎备份源三",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/20260329.jar",
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
-        {
-            "key": "dyg",
-            "name": "🍎备份源四",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Dygang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/20260329.jar",
-            "filterable": 1
-        },
         {
             "key": "数字1",
             "name": "🍎备份源五",
