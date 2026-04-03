@@ -14,7 +14,7 @@
             "api": "csp_AiRecommend",
             "searchable": 0,
             "ext": "{\"path\":\"http://h.9box.store/box/recommend.json\"}",
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c"
+            "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/20260329.jar"
         },
     {
       "key": "农民影视",
@@ -24,17 +24,40 @@
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
     },
-        {
-            "key": "jp",
-            "name": "🍎备份源二",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Guazi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
-            "filterable": 1
-        },
+            {
+      "key": "奇优",
+      "name": "🍎备份源二",
+      "type": 3,
+     "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/chuanshuo.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "手机",
+        "主页url": "http://www.qiyoudy4.com/",
+        "简介": "&&</div>",
+        "数组": "<div class=\"stui-vodlist__box\">&&</a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "text-right\">&&</span>",
+        "链接": "href=\"&&\"",
+        "搜索url": "http://www.qiyoudy4.com/search.php;post;searchword={wd}",
+        "搜索数组": "v-thumb stui-vodlist__thumb&&</a>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "text-right\">&&</span>",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "data-toggle=\"tab\"&&</li>",
+        "线路标题": ">&&</a>",
+        "播放数组": "stui-content__playlist clearfix&&</ul>",
+        "播放列表": "<li>&&</li>",
+        "播放标题": ">&&</a>",
+        "分类url": "http://www.qiyoudy4.com/list/{cateId}_{catePg}.html;;ak",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+      }
+    },
+
         {
             "key": "gz",
             "name": "🍎备份源三",
@@ -44,7 +67,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
+            "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/20260329.jar",
             "ext": {
                 "url": "http://v.rbotv.cn"
             }
@@ -57,7 +80,7 @@
             "api": "csp_Dygang",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
+            "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/20260329.jar",
             "filterable": 1
         },
         {
@@ -66,7 +89,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
+            "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/20260329.jar",
             "ext": {
                 "url": "http://app1-0-0.87333.cc",
                 "dataKey": "VwsHxkCViDXEExWa",
@@ -82,7 +105,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
+            "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/20260329.jar",
             "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
         },
         {
@@ -93,7 +116,7 @@
             "api": "csp_JpysNew",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
+            "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/20260329.jar",
             "filterable": 1
         },
         {
@@ -105,7 +128,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
+            "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/20260329.jar",
             "ext": "https://api.zxfmj.com"
         },
         {
@@ -529,7 +552,7 @@
             "quickSearch": 0
         }
     ],
-    "spider": "http://jar.jsy666.xyz/box/20250824.jar;md5;1099f9cedab19f487ac8fc283d9ca447",
+    "spider": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/20250824.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {
