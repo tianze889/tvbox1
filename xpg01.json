@@ -18,7 +18,7 @@
         },
         {
       "key": "橘皮",
-      "name": "🍊🍎备份源一",
+      "name": "🍎备份源一",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
@@ -48,45 +48,44 @@
       }
     },
     {
-      "key": "农民影视",
-      "name": "💡农民蓝光高清",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200"
-    },
-    {
       "key": "坚果影视",
       "name": "💡坚果｜影视",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "type": 3,
       "api": "csp_AppJg"
     },
     {
       "key": "三秋影视",
       "name": "💡三秋｜影视",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "type": 3,
       "api": "csp_App3Q"
     },
     {
       "key": "三六零",
       "name": "💡三六｜视频",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "type": 3,
       "api": "csp_SP360"
     },
     {
       "key": "瓜子影视",
       "name": "💡瓜子｜影视",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "type": 3,
       "api": "csp_Gz360"
     },
     {
       "key": "奇优影视",
       "name": "💡奇优｜影视",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "type": 3,
       "api": "csp_Qiyou"
     },
     {
       "key": "骚火影视",
       "name": "💡骚火｜影视",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "type": 3,
       "api": "csp_SaoHuo",
       "playerType": 2,
@@ -95,6 +94,7 @@
     {
       "key": "金牌影视",
       "name": "💡金牌｜影视",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
@@ -102,6 +102,7 @@
     {
       "key": "云播影视",
       "name": "💡云播｜影视",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "type": 3,
       "api": "csp_Tvyb",
       "ext": "http://www.tvyb03.com"
@@ -109,6 +110,7 @@
     {
       "key": "饺子影视",
       "name": "💡饺子｜影视",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "type": 3,
       "api": "csp_Jiaozi"
     },
@@ -116,6 +118,7 @@
       "key": "1905",
       "name": "💡1905｜影视",
       "type": 3,
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "api": "csp_Web1905",
       "searchable": 1,
       "quickSearch": 0,
@@ -125,6 +128,7 @@
       "key": "移动",
       "name": "💡移动｜影视",
       "type": 3,
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "api": "csp_YDjisu",
       "searchable": 1,
       "quickSearch": 1
@@ -133,6 +137,7 @@
       "key": "金牌",
       "name": "📺金牌4K蓝光",
       "type": 3,
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "api": "csp_Jpys",
       "searchable": 1,
       "quickSearch": 1,
@@ -151,6 +156,7 @@
         {
       "key": "荐片",
       "name": "💡荐片｜影视",
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/ouge.jar", 
       "api": "csp_JianPian",
       "type": 3
     },
