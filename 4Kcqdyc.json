@@ -11,7 +11,7 @@
 //jar
  {
       "key": "橘皮",
-      "name": "🍊橘皮蓝光秒播",
+      "name": "🍊橘皮4K蓝光",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
@@ -27,7 +27,6 @@
       "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-
     {
       "key": "热播影视",
       "name": "🌞热播4K秒播",
@@ -40,9 +39,78 @@
         "url": "http://v.rbotv.cn"
       }
     },
+ {
+       "key": "ttys",
+            "name": "🚀腾讯|4K①",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/qq.js"
+        },
+        {
+        "key": "csp_iqiyi",
+        "name": "📤奇艺影视┃4K",
+        "type": 3,
+        "api": "csp_iqiyi",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/官源.jar"
+    }, {
+        "key": "csp_mgtv",
+        "name": "🥭芒果视频┃4K",
+        "type": 3,
+        "api": "csp_mgtv",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/官源.jar"
+    }, {
+        "key": "csp-youku",
+        "name": "😎优酷视频┃4K",
+        "type": 3,
+        "api": "csp_youku",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/官源.jar"
+    },
+ {
+ "key": "爱奇艺",
+      "name": "😍爱奇艺┃4K",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "🎞️优酷┃4K",
+     "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"
+    },
+    {
+
+        "key": "爱腾讯",
+      "name": "📡腾讯┃4K",
+     "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "🌅芒果┃4K",
+     "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"
+    },
     {
       "key": "农民影视",
-      "name": "💡农民蓝光高清",
+      "name": "📠农民蓝光高清",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
