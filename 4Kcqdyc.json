@@ -413,6 +413,64 @@
 ],
 "parses":[
 {"name":"-聚合-","type":3,"url":"Demo"},
+     {
+      "name": "资源宝藏库制作维护",
+      "type": 1,
+      "url": "http://jx.4kbox.top/jx/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+     {
+      "name": "官方解析",
+      "type": 1,
+      "url": "https://www.senymachine.com/admin/json.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
 {"name":"失败手动换","type":"1","url":"https://by1.nxog.eu.org/jx.php?ou=198&mz=0&url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {"name":"-关注-","type":1,"url":"https://by1.nxog.eu.org/jx.php?ou=198&mz=1&url="},
 {"name":"-装歌API-","type":1,"url":"https://by1.nxog.eu.org/jx.php?ou=198&mz=2&url="},
