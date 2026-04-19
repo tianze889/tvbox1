@@ -18,6 +18,20 @@
       "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
+     {
+      "key": "糯米",
+      "name": "🍓糯米┃4K秒播",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Nmys"
+      },
+      "timeout": 10
+    },
     {
       "key": "柠檬",
       "name": "🍋柠檬4K影视",
