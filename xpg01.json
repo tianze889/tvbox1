@@ -171,9 +171,6 @@
       "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
       "ext": "http://103.45.162.207:25252/仅供测试/lib/茫茫.js"
     },
-
-
-
         {
             "key": "量子资源",
             "name": "🥑量子资源",
@@ -199,45 +196,86 @@
                 "喜剧片"
             ]
         },
-        {
-            "key": "低端",
-            "name": "🛣┃低端┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "http://jar.jsy666.xyz/js/lib/drpy2.min.js",
-            "ext": "http://jar.jsy666.xyz/js/ddys.js"
-        },
-        {
-            "key": "17kan",
-            "name": "⚽🏀球赛1",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://jar.jsy666.xyz/html/box/json/17%E7%9C%8B%E7%90%83.json"
-        },
-        {
-            "key": "csp_xpath_球迷2",
-            "name": "⚽🏀球赛2",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://jar.jsy666.xyz/html/box/json/%E7%90%83%E8%BF%B72.json"
-        },
-        {
-            "key": "csp_xpath_球迷直播",
-            "name": "⚽🏀球赛3",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://jar.jsy666.xyz/html/box/json/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"
-        },
-        {
+            {
+      "key": "天天",
+      "name": "📡天天高清",
+        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "csp_HBtiantianv3",
+      "ext": "http://v.rbotv.cn"
+    },
+            {
+      "key": "馆源",
+      "name": "🛣┃低端┃影视",
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "csp_HB360"
+    },
+    {
+      "key": "酷浪",
+      "name": "😎酷浪蓝光",
+     "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "csp_HBtiantian",
+      "ext": "http://v.lkuys.cn/"
+    },
+    {
+      "key": "追追",
+      "name": "🛫追追|弹幕",
+        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "csp_Wcai",
+      "ext": "https://zjuys.com/"
+    },
+    {
+      "key": "风铃",
+      "name": "📲风铃|动漫",
+        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "csp_HBfling"
+    },
+    {
+      "key": "360",
+      "name": "🎠360|影视",
+        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "csp_HBcms10",
+      "ext": "https://360zy.com/api.php/provide/vod/"
+    },
+    {
+      "key": "暴风",
+      "name": "🪻暴风|影视",
+         "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "csp_HBcms10",
+      "ext": "http://43.138.242.105:8686/api.php?key=104847348&id=id1"
+    },
+    {
+      "key": "maoyan",
+      "name": "🌥️摩崖|影视",
+        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "csp_HBcms10",
+      "ext": "https://api.maoyanapi.top/api.php/provide/vod/"
+    },
+    {
+      "key": "天堂",
+      "name": "🛰️天堂|影视",
+       "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "csp_HBcms10",
+      "ext": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/"
+    },
+    {
+      "key": "雪糕",
+      "name": "☃️雪糕|影视",
+         "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "csp_HBPQ",
+      "ext": "http://103.45.162.207:25252/仅供测试/lib/雪糕影视.json"
+    },
+        
+     {
             "key": "Bili",
             "name": "🅱哔哔┃合集",
             "type": 3,
