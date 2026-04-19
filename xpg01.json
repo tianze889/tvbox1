@@ -7,150 +7,173 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-        {
-            "key": "ai1",
-            "name": "🔍小苹果荐片",
-            "type": 3,
-            "api": "csp_AiRecommend",
-            "searchable": 0,
-            "ext": "{\"path\":\"http://h.9box.store/box/recommend.json\"}",
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c"
-        },
-        {
-            "key": "match",
-            "name": "⚽小苹果赛事直播",
-            "type": 3,
-            "api": "csp_AppleMatch",
-            "searchable": 0,
-            "ext": "{\"path\":\"http://h.9box.store/box/match.json\"}",
-            "jar": "http://jar.jsy666.xyz/1119/applematch6.jar;md5;ce00b0d71b57204256da88f4c3248506"
-        },
-        {
-            "key": "小苹果",
-            "name": "🍎苹果源",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
-            "filterable": 1
-        },
-        {
-            "key": "jp",
-            "name": "🍎备份源二",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Guazi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
-            "filterable": 1
-        },
-        {
-            "key": "gz",
-            "name": "🍎备份源三",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
-        {
-            "key": "dyg",
-            "name": "🍎备份源四",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Dygang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
-            "filterable": 1
-        },
-        {
-            "key": "数字1",
-            "name": "🍎备份源五",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
-            "ext": {
-                "url": "http://app1-0-0.87333.cc",
-                "dataKey": "VwsHxkCViDXEExWa",
-                "dataIv": "VwsHxkCViDXEExWa"
-            }
-        },
-        {
-            "key": "zq",
-            "name": "🍎备份源六",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_zhiqiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
-            "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
-        },
-        {
-            "key": "Jpys",
-            "name": "🍎备份源七",
-            "type": 3,
-            "playerType": "1",
-            "api": "csp_JpysNew",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
-            "filterable": 1
-        },
-        {
-            "key": "荐1片",
-            "name": "🍎备份源九",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://jar.jsy666.xyz/1119/20260329.jar;md5;8ba906fc6457ece6c3631adb91ffd56c",
-            "ext": "https://api.zxfmj.com"
-        },
-        {
-            "key": "闪影",
-            "name": "🍎备份源十",
-            "type": 3,
-            "api": "csp_AppYs",
-            "jar": "http://jar.jsy666.xyz/box/20251115.jar;md5;a36a8baf22f8805f08dd4e3a6d8de2b9",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "机器人弹幕",
-            "name": "🍎备份源机器人",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://jar.jsy666.xyz/box/0228.jar;md5;11c25fa40e0b5e7797c51e92ed8d2a54"
-        },
-        {
-            "key": "韩小圈",
-            "name": "🍎韩剧",
-            "type": 3,
-            "api": "csp_HanXiaoQuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://jar.jsy666.xyz/box/0228.jar;md5;11c25fa40e0b5e7797c51e92ed8d2a54"
-        },
+            {
+      "key": "糯米",
+      "name": "🔍小苹果荐片",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Nmys"
+      },
+      "timeout": 10
+    },
+            {
+      "key": "热播",
+      "name": "🍎苹果源",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "TianTian",
+        "site": 0
+      },
+      "timeout": 10
+    },
+            {
+      "key": "瓜子",
+      "name": "🍎备份源二",
+     "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Guazi"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "文才",
+      "name": "🍎备份源三",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Jpys"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "奇奇",
+      "name": "🍎备份源四",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "QiQi"
+      },
+      "timeout": 10
+    },  
+    {
+      "key": "厂长",
+      "name": "🍎备份源五",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Czzy"
+      },
+      "timeout": 10
+    },
+          {
+      "key": "csp_Btt",
+      "name": "🍎备份源六",
+     "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "Btt"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "荐片",
+      "name": "🍎备份源七",
+     "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Jianpian"
+      },
+      "timeout": 10
+    },
+      {
+      "key": "muxi",
+      "name": "🍎备份源八",
+     "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "csp_HBrenren"
+    },
+    {
+      "key": "独播",
+      "name": "🍎备份源九",
+        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835",  
+      "type": 3,
+      "api": "csp_Duboku"
+    },
+      {
+      "key": "tenteng",
+      "name": "🍎备份源十",
+        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835",    
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/仅供测试/lib/腾腾.js"
+    },
+    {
+      "key": "youyou",
+      "name": "🍎备份源机器人",
+     "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/仅供测试/lib/优优.js"
+    },
+    {
+      "key": "qiqi",
+      "name": "🍎韩剧",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/仅供测试/lib/奇奇.js"
+    },
+    {
+      "key": "mangmang",
+      "name": "📠朝阳",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/仅供测试/lib/茫茫.js"
+    },
+
+
+
         {
             "key": "量子资源",
             "name": "🥑量子资源",
