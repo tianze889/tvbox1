@@ -21,6 +21,7 @@
      {
       "key": "糯米",
       "name": "🍓糯米┃4K秒播",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
