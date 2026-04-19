@@ -1,21 +1,6 @@
 {
     "sites": [
-        {
-            "key": "豆瓣jar",
-            "name": "🔍豆瓣荐片",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
-        {
-            "key": "ai1",
-            "name": "🔍小苹果荐片",
-            "type": 3,
-            "api": "csp_AiRecommend",
-            "searchable": 0,
-            "ext": "{\"path\":\"http://h.9box.store/box/recommend.json\"}",
-            "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/20260329.jar"
-        },
+        {"key":"豆瓣2","name":"🔍豆瓣荐片","jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/4kys.jar","type":3,"api":"csp_Douban","searchable":0},
         {
       "key": "橘皮",
       "name": "🍎备份源一",
