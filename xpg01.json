@@ -274,7 +274,6 @@
       "api": "csp_HBPQ",
       "ext": "http://103.45.162.207:25252/仅供测试/lib/雪糕影视.json"
     },
-        
      {
             "key": "Bili",
             "name": "🅱哔哔┃合集",
@@ -650,7 +649,23 @@
         }
     ],
     "parses": [
-     {
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+             {
       "name": "资源宝藏库制作维护",
       "type": 1,
       "url": "http://jx.4kbox.top/jx/?url=",
@@ -680,22 +695,6 @@
         }
       }
     },
-        {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-
-        {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
         {
             "name": "解析1",
             "type": 1,
