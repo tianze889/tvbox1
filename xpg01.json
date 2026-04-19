@@ -541,18 +541,9 @@
             "quickSearch": 0
         }
     ],
-    "spider": "http://jar.jsy666.xyz/box/20250824.jar;md5;1099f9cedab19f487ac8fc283d9ca447",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/dszb/refs/heads/main/jar/20250824.jar;md5;1099f9cedab19f487ac8fc283d9ca447",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
-        {
-            "name": "海外专线（内地禁用",
-            "type": 0,
-            "url": "http://194.147.100.173/box/tvzb9.txt",
-            "playerType": 2,
-            "ua": "okhttp/5.0.0-alpha.14",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
         {
             "name": "线路①",
             "type": 0,
