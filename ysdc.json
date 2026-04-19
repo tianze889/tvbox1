@@ -1,9 +1,6 @@
 {
     "urls": [
-      {
-      "url": "http://www.cttv.vip/ys/json/ctys.json",
-      "name": "刺桐接口（自营）"
-    },
+
     {
       "url": "http://www.饭太硬.com/tv",
       "name": "饭太硬接口（2026.1.19更新）"
@@ -14,20 +11,12 @@
       "name": "放牛娃接口（2026.1.19更新）"
     },
     
-    {
-      "url": "http://iiptv.xyz/dm84",
-      "name": "动漫巴士接口（2026.1.19更新）"
-    },
 
     {
       "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
       "name": "小荷接口（2026.1.19更新）"
     },
 
-    {
-      "url": "https://gitee.com/bbstudou/tvbo/raw/master/11tv.json",
-      "name": "木木接口（2026.1.19更新）"
-    },
 
     {
       "url": "https://fastly.jsdelivr.net/gh/ls125781003/dmtg@master/zy.json",
@@ -39,10 +28,6 @@
       "name": "巧儿接口（2026.1.19更新）"
     },
 
-    {
-      "url": "http://xhztv.top/dc/%E5%B0%8F%E9%B1%BC%E5%B9%B2/api.json",
-      "name": "小鱼干接口（2026.1.19更新）"
-    },
 
     {
       "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
@@ -54,10 +39,7 @@
       "name": "一哥接口（2026.1.19更新）"
     },
 
-    {
-      "url": "https://catbox.n13.club/jk/jsm.json",
-      "name": "潮哥接口（2026.1.19更新）"
-    },
+
 
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
@@ -79,10 +61,6 @@
       "name": "幸福年年接口（2026.1.19更新）"
     },
 
-    {
-      "url": "https://kong88.dpdns.org/4k.json",
-      "name": "空空4K接口（2026.1.19更新）"
-    },
 
     {
       "url": "https://gitee.com/dong2274560336/film-and-television-interface/raw/master/fty.json",
