@@ -445,10 +445,18 @@
 {"key":"push_agent","name":"📢手机｜推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0},
 {"key": "应用商店","name": "🛒本地包更新","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://ogogogg.v.nxog.top/zm/sd?b=ogogogg"}
 ],
-"parses":[
-{"name":"-聚合-","type":3,"url":"Demo"},
-     {
-      "name": "官方解析",
+"parses": [{
+ "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "官方",
       "type": 1,
       "url": "https://www.senymachine.com/admin/json.php?url=",
       "ext": {
@@ -469,6 +477,56 @@
           "tnmb",
           "seven",
           "bilibili"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "野草口令392E",
+      "type": 1,
+      "url": "http://jx.4kbox.top/jx/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+     {
+      "name": "巧技三",
+      "type": 1,
+      "url": "https://rizzon.in/wp-content/json.php?url=",
+      "ext": {
+        "flag": [
+          "QD4K",
+          "iyf",
+          "duanju",
+          "gzcj",
+          "GTV",
+          "GZYS",
+          "weggz",
+          "Ace"
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
