@@ -7,37 +7,40 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-            {
-      "key": "糯米",
+         {
+      "key": "橘皮",
       "name": "🔍小苹果荐片",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
       "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Nmys"
-      },
-      "timeout": 10
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
+      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
-            {
-      "key": "热播",
+    {
+      "key": "柠檬",
       "name": "🍎苹果源",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
       "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "TianTian",
-        "site": 0
-      },
-      "timeout": 10
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
+    {
+      "key": "农民影视",
+      "name": "🍎备份源二",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+
+
+
+
+
+
+
+        
+
             {
       "key": "瓜子",
       "name": "🍎备份源二",
