@@ -209,14 +209,6 @@
             ]
         },
             {
-      "key": "天天1",
-      "name": "📡天天高清",
-        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
-      "type": 3,
-      "api": "csp_HBtiantianv3",
-      "ext": "http://v.rbotv.cn"
-    },
-            {
       "key": "馆源",
       "name": "🛣┃低端┃影视",
       "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
