@@ -39,6 +39,7 @@
       "key": "农民影视",
       "name": "🍎备份源二",
       "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",  
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
     },
