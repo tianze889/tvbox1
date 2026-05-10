@@ -7,14 +7,14 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-         {
-      "key": "橘皮",
+    {
+      "key": "天天",
       "name": "🔍小苹果荐片",
       "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 1,
-      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
-      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
       "key": "柠檬",
@@ -25,6 +25,16 @@
       "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
+  {
+      "key": "橘皮",
+      "name": "🍎备份源一",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
+      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+    },
+
     {
       "key": "农民影视",
       "name": "🍎备份源二",
@@ -32,7 +42,6 @@
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
     },
-
 
 
 
