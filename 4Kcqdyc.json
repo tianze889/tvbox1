@@ -116,7 +116,15 @@
       "playerType": 2,
       "ext": "7lj763gg402i7942463j9j9jk20g8194g6g38449i399207000124lg6gl4003564ii008k3ih00i2986g4lkkj7g3gg4lhlg837220hh0k199gj3gj66jg1"
     },
-
+    {
+      "key": "公众号",
+      "name": "💯移动专享急速",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/YD.jar",
+      "api": "csp_YDjisu",
+      "searchable": 1,
+      "changeable": 1
+    },
 
  
  {
@@ -136,7 +144,8 @@
         "quickSearch": 1,
         "filterable": 1,
         "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/官源.jar"
-    }, {
+    }, 
+ {
         "key": "csp_mgtv",
         "name": "🥭芒果视频┃4K",
         "type": 3,
@@ -145,16 +154,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/官源.jar"
-    }, {
-        "key": "csp-youku",
-        "name": "😎优酷视频┃4K",
-        "type": 3,
-        "api": "csp_youku",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/官源.jar"
-    },
+    }, 
  {
  "key": "爱奇艺",
       "name": "😍爱奇艺┃4K",
@@ -170,6 +170,16 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"
+    },
+  {
+        "key": "csp-youku",
+        "name": "😎优酷视频┃4K",
+        "type": 3,
+        "api": "csp_youku",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/官源.jar"
     },
     {
 
@@ -492,8 +502,18 @@
 {"key": "应用商店","name": "🛒本地包更新","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://ogogogg.v.nxog.top/zm/sd?b=ogogogg"}
 ],
 "parses": [
-     {
-      "name": "资源宝藏库秒解1",
+    {
+      "name": "资源宝藏库秒解秒解1",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
+    },
+    {
+      "name": "资源宝藏库秒解秒解2",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
+    },
+ {
+      "name": "资源宝藏库秒解3",
       "type": 1,
       "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",
       "ext": {
@@ -502,16 +522,6 @@
           "Origin": "https://jx.xmflv.com"
         }
       }
-    },
-    {
-      "name": "资源宝藏库秒解秒解2",
-      "type": 1,
-      "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
-    },
-    {
-      "name": "资源宝藏库秒解秒解3",
-      "type": 1,
-      "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
     },
     {
       "name": "蓝光1",
