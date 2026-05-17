@@ -158,6 +158,47 @@
       "type": 3
     },
     {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "🌀腾云随缘画质",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线1.js"
+    },
+    {
+      "key": "guoguo",
+      "name": "🌀芒果随缘画质",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线3.js"
+    },
+    {
+      "key": "爱奇艺",
+      "name": "🌀奇异果子蓝光",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
+      "api": "https://gitee.com/ce234/co/raw/master/vipmax/JS/drpy2.min.js",
+      "ext": "http://svip.kkw88.top/kkwtv/js/爱奇艺.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "🌀悠然自得高清",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
+      "api": "https://gitee.com/ce234/co/raw/master/vipmax/JS/drpy2.min.js",
+      "ext": "http://svip.kkw88.top/kkwtv/js/优酷视频.js"
+    },
+    {
+      "key": "公众号",
+      "name": "💯移动专享急速",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/YD.jar",
+      "api": "csp_YDjisu",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "巧技二",
       "name": "🔍搜搜┃影视",
       "type": 3,
@@ -915,6 +956,57 @@
     }
   ],
   "parses": [
+        {
+      "name": "资源宝藏库秒解秒解1",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
+    },
+    {
+      "name": "资源宝藏库秒解秒解2",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
+    },
+ {
+      "name": "资源宝藏库秒解3",
+      "type": 1,
+      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",
+      "ext": {
+        "header": {
+          "Accept": "*/*",
+          "Origin": "https://jx.xmflv.com"
+        }
+      }
+    },
+    {
+      "name": "蓝光1",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "蓝光2",
+      "type": 0,
+      "url": "http://www.ckplayer.vip/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+        }
+      }
+    },
+    {
+      "name": "蓝光3",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+        }
+      }
+    },
     {
       "name": "-聚合-",
       "type": 3,
