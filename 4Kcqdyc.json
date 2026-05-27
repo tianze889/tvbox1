@@ -448,6 +448,36 @@
 {"key": "应用商店","name": "🛒本地包更新","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://ogogogg.v.nxog.top/zm/sd?b=ogogogg"}
 ],
 "parses": [
+ 		{
+			"name": "资源宝藏库4K解析",
+			"type": 1,
+			"url": "http://8.146.205.47/php/jx.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"mgtv",
+					"芒果",
+					"imgo",
+					"letv",
+					"乐视",
+					"pptv",
+					"PPTV",
+					"sohu",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},
     {
       "name": "资源宝藏库秒解秒解1",
       "type": 1,
