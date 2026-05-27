@@ -13,6 +13,19 @@
             "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
             "ext": "http://49.232.165.72:1234/js/qq.js"
         },
+	{
+            "key": "小果",
+            "name": "百忙无果丨4K-1",
+            "type": 3,
+		    "jar": "https://wget.la/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/xiaoya_proxy_2.jar",
+            "api": "https://wget.la/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "https://wget.la/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/js/百忙无果.js"
+        },
  {"key":"豆瓣2","name":"📢4K超清电影仓--资源宝藏库制作维护","type":3,"api":"csp_Douban","searchable":0},
  {"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 
