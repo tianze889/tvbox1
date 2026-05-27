@@ -5,8 +5,16 @@
 "warningText":"📢软件由资源宝藏库制作维护",
 
 "sites": [
-{"key":"豆瓣2","name":"📢4K超清电影仓--资源宝藏库制作维护","type":3,"api":"csp_Douban","searchable":0},
-{"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
+ {
+       "key": "ttys",
+            "name": "📢4K超清电影仓--资源宝藏库制作维护",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/qq.js"
+        },
+ {"key":"豆瓣2","name":"📢4K超清电影仓--资源宝藏库制作维护","type":3,"api":"csp_Douban","searchable":0},
+ {"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 
 //jar
  {
@@ -127,14 +135,7 @@
     },
 
  
- {
-       "key": "ttys",
-            "name": "🚀腾讯|4K①",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
-            "type": 3,
-            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
-            "ext": "http://49.232.165.72:1234/js/qq.js"
-        },
+
         {
         "key": "csp_iqiyi",
         "name": "📤奇艺影视┃4K",
