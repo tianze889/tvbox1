@@ -5,19 +5,6 @@
 "warningText":"📢软件由资源宝藏库制作维护",
 
 "sites": [
-	{
-			"api": "http://8.146.205.47/py/尊.py",
-	        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723796067885/xiaoya_proxy_2.jar",
-			"ext": {
-				"thread": "10"
-			},
-			"filterable": 1,
-			"key": "py_臻彩魅影",
-			"name": "臻彩4K",
-			"quickSearch": 1,
-			"searchable": 1,
-			"type": 3
-		},
  {
        "key": "ttys",
             "name": "📢4K超清电影仓--资源宝藏库制作维护",
@@ -69,6 +56,19 @@
         "filterable": 1,
         "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/官源.jar"
     },
+		{
+			"api": "http://8.146.205.47/py/尊.py",
+	        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723796067885/xiaoya_proxy_2.jar",
+			"ext": {
+				"thread": "10"
+			},
+			"filterable": 1,
+			"key": "py_臻彩魅影",
+			"name": "臻彩4K",
+			"quickSearch": 1,
+			"searchable": 1,
+			"type": 3
+		},
  {"key":"豆瓣2","name":"📢4K超清电影仓--资源宝藏库制作维护","type":3,"api":"csp_Douban","searchable":0},
  {"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 
