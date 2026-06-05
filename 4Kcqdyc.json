@@ -5,6 +5,18 @@
 "warningText":"📢软件由资源宝藏库制作维护",
 
 "sites": [
+	{
+			"api": "http://8.146.205.47/py/尊.py",
+			"ext": {
+				"thread": "10"
+			},
+			"filterable": 1,
+			"key": "py_臻彩魅影",
+			"name": "臻彩4K",
+			"quickSearch": 1,
+			"searchable": 1,
+			"type": 3
+		},
  {
        "key": "ttys",
             "name": "📢4K超清电影仓--资源宝藏库制作维护",
