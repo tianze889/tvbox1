@@ -16,15 +16,8 @@
       "playerType": 2,
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
-    {
-      "key": "柠檬",
-      "name": "🍎苹果源",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
+     {"key":"天天","name":"🍎苹果源","type":3,"api":"csp_TTian","jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
+
   {
       "key": "橘皮",
       "name": "🍎备份源一",
@@ -243,6 +236,15 @@
       "type": 3,
       "api": "csp_HBPQ",
       "ext": "http://103.45.162.207:25252/仅供测试/lib/雪糕影视.json"
+    },
+        {
+      "key": "柠檬",
+      "name": "🗼柠檬影视",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
      {
             "key": "Bili",
