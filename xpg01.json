@@ -86,16 +86,7 @@
       "playerType": 1,
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
-    {
-      "key": "如意资源",
-      "name": "🍎备份源五",
-      "type": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",            
-      "api": "http://cj.rycjapi.com/api.php/provide/vod",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
+{"key":"金牌","name":"🍎备份源五","type":3,"api":"csp_Jpys","jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
     {
       "key": "茅台资源",
       "name": "🍎备份源六",
