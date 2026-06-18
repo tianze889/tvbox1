@@ -474,6 +474,11 @@
 {"key": "应用商店","name": "🛒本地包更新","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://ogogogg.v.nxog.top/zm/sd?b=ogogogg"}
 ],
 "parses": [
+	    {
+      "name": "资源宝藏库",
+      "type": 1,
+      "url": "https://jx.xymp4.cc/?url="
+    },
  		{
 			"name": "资源宝藏库4K解析",
 			"type": 1,
