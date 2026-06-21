@@ -475,22 +475,12 @@
 ],
 "parses": [
     {
-      "name": "资源宝藏库13",
+      "name": "资源宝藏库4K解析",
       "type": 1,
       "url": "https://jx.xmflv.com/?url="
     },
-    {
+	    {
       "name": "蓝光1",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "蓝光2",
       "type": 0,
       "url": "http://www.ckplayer.vip/jiexi/?url=",
       "ext": {
@@ -500,7 +490,37 @@
       }
     },
     {
+      "name": "蓝光2",
+      "type": 0,
+      "url": "https://jx.2s0.cn/player/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
       "name": "蓝光3",
+      "type": 0,
+      "url": "https://bfq.txnp.cn/player?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
+        }
+      }
+    },
+	{
+      "name": "蓝光4",
+      "type": 0,
+      "url": "https://jx.dmflv.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "蓝光5",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
