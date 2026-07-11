@@ -32,17 +32,6 @@ var rule = {
                     'Content-Type': 'application/x-www-form-urlencoded'
                 }
             });
-
-            let api = "http://103.149.201.157:61233/api/?key=d150f48d6fdabbfd398e7cb31725f76f&url=" + input.split("?")[0];
-            console.log(api);
-            let response = fetch(api, {
-                method: 'get',
-                headers: {
-                    'User-Agent': 'okhttp/3.14.9',
-                    'Content-Type': 'application/x-www-form-urlencoded'
-                }
-            });
-
             let bata = JSON.parse(response);
             log(bata)
             if (bata.url.includes("http")) {
