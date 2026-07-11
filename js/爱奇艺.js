@@ -23,7 +23,7 @@ var rule = {
     play_parse: true,
     lazy: $js.toString(() => {
         try {
-            let api = "http://103.149.201.157:61233/api/?key=d150f48d6fdabbfd398e7cb31725f76f&url=" + input.split("?")[0];
+            let api = "http://8.146.205.47/php/jx.php?url=" + input.split("?")[0];
             console.log(api);
             let response = fetch(api, {
                 method: 'get',
