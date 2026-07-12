@@ -75,18 +75,16 @@
 //jar
  {
       "key": "橘皮",
-      "name": "🍊橘皮4K蓝光",
+      "name": "🍊橘皮4K蓝光1",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
-      "jar": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
     {
       "key": "天天",
       "name": "🔍天天┃4K秒播",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",
       "api": "csp_TTian",
       "playerType": 2,
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
@@ -94,8 +92,7 @@
      {
       "key": "剧评",
       "name": "📺热播┃4K秒播",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",     
+      "type": 3,  
       "api": "csp_Jpys",
       "searchable": 0,
       "quickSearch": 0,
