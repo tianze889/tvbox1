@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://ogogogg.v.nxog.top/m/t/",
 "logo":"https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
-"spider":"https://ghfast.top/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/4kys.jar",
+"spider":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/4kys.jar",
 "warningText":"📢软件由资源宝藏库制作维护",
 
 "sites": [
@@ -28,7 +28,7 @@
       "key": "追剧",
       "name": "☃️追剧蓝光",
       "type": 3,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",  
+      "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",  
       "api": "csp_TTian",
       "searchable": 1,
       "playerType": 1,
@@ -42,14 +42,14 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "https://ghfast.top/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
+      "jar": "https://v6.gh-proxy.org/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/jupi.jar",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
       "key": "如意资源",
       "name": "📡如意蓝光",
       "type": 1,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",            
+      "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",            
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "searchable": 0,
       "quickSearch": 0,
@@ -59,7 +59,7 @@
       "key": "茅台资源",
       "name": "👽茅台高清",
       "type": 1,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",     
+      "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",     
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "searchable": 0,
       "quickSearch": 0,
@@ -69,7 +69,7 @@
       "key": "yizys",
       "name": "🚂铁杆4K",
       "type": 3,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",  
+      "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",  
       "api": "csp_Xdai",
       "playerType": 2,
       "ext": "7lj763gg0939795i007gi48hk112jji7g1k69j079jj06g721j461kk7h703431g079j0g9hi15lg2j6232lk993i1g416hlg87i7l09i8khi6ij749j0lg77l9g154kg2gljkl1g625"
@@ -78,7 +78,7 @@
       "key": "时常",
       "name": "🎞️时常秒播",
       "type": 3,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",    
+      "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/f2d.jar",    
       "api": "csp_Xdai",
       "playerType": 2,
       "ext": "7lj763gg402i7942463j9j9jk20g8194g6g38449i399207000124lg6gl4003564ii008k3ih00i2986g4lkkj7g3gg4lhlg837220hh0k199gj3gj66jg1"
@@ -87,7 +87,7 @@
       "key": "公众号",
       "name": "💯移动专享急速",
       "type": 3,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/YD.jar",
+      "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/YD.jar",
       "api": "csp_YDjisu",
       "searchable": 1,
       "changeable": 1
@@ -103,7 +103,7 @@
       "key": "奇优",
       "name": "🐨奇优4K秒播",
       "type": 3,
-     "jar": "https://ghfast.top/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/chuanshuo.jar",
+     "jar": "https://v6.gh-proxy.org/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/chuanshuo.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -136,7 +136,7 @@
       "key": "星星",
       "name": "✨星星高清秒播",
       "type": 3,
-    "jar": "https://ghfast.top/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/chuanshuo.jar",
+    "jar": "https://v6.gh-proxy.org/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/chuanshuo.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
