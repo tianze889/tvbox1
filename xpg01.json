@@ -60,7 +60,7 @@
 {"key":"瓜子影视","name":"🍎备份源五","type":3,"api":"csp_Gz360"},
      {
       "key": "YunDuo",
-      "name": "云朵┃App",
+      "name": "🍎备份源六",
       "type": 3,
       "api": "csp_YunDuo",
       "jar":"https://tvv.tw/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/ydapp.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
@@ -68,7 +68,13 @@
       "changeable": 1,
       "filterable": 1
     },
-{"key":"1905","name":"🍎备份源七","type":3,"api":"csp_Web1905","jar":"https://tvv.tw/https://github.com/tianze889/tvbox1/raw/refs/heads/main/jar/qianx.jar;md5;6e60bb2596cb9a3765569dae1d4ae024","searchable":1,"quickSearch":0,"filterable":0},
+        {
+      "key": "星空4K云",
+      "name": "🍎备份源七",
+      "type": 3,
+      "api": "http://8.148.229.212:802/tianyun4k/drpy_libs/drpy2.min.js",
+      "ext": "https://gitee.com/iptxhd/jdjdfj/raw/master/tx4k.js"
+},
 {"key":"饺子影视","name":"🍎备份源八","type":3,"api":"csp_Jiaozi"},
 {"key":"1905","name":"🍎备份源九","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"永乐","name":"🍎备份源十","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js"},      
