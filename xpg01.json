@@ -59,7 +59,7 @@
 {"key":"三六零","name":"🍎备份源四","type":3,"api":"csp_SP360"},
 {"key":"瓜子影视","name":"🍎备份源五","type":3,"api":"csp_Gz360"},
 {"key":"骚火影视","name":"🍎备份源六","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
-{"key":"金牌影视","name":"🍎备份源七","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
+{"key":"1905","name":"🍎备份源七","type":3,"api":"csp_Web1905","jar":"https://chuxinya.top/f/Dq4oT3/qianx.jar;md5;6e60bb2596cb9a3765569dae1d4ae024","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"饺子影视","name":"🍎备份源八","type":3,"api":"csp_Jiaozi"},
 {"key":"1905","name":"🍎备份源九","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"永乐","name":"🍎备份源十","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js"},      
@@ -552,21 +552,12 @@
         }
     ],
     "parses": [
-        {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Json并发",
+           {
+            "name": "自动解析",
             "type": 2,
             "url": "Parallel"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
+        },                
+ {"name":"资源宝藏库解析","type":1,"url":"http://103.236.72.179:5677/index.php?url="},  
         {
             "name": "解析1",
             "type": 1,
