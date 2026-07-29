@@ -69,15 +69,34 @@
       "filterable": 1
     },
         {
-      "key": "星空4K云",
+     "key": "芒果云",
+     "name": "🍎备份源七",
+     "type": 3,
+     "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+     "ext": "http://nn.4688888.xyz/js/芒果视频.js"
+},
+  {
+      "key": "优酷云",
       "name": "🍎备份源七",
       "type": 3,
-      "api": "http://8.148.229.212:802/tianyun4k/drpy_libs/drpy2.min.js",
-      "ext": "https://gitee.com/iptxhd/jdjdfj/raw/master/tx4k.js"
+      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+      "ext": "http://nn.4688888.xyz/js/优酷弹幕.js"
+},      
+{
+     "key": "腾讯云",
+     "name": "🍎备份源八",
+     "type": 3,
+     "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+     "ext": "http://nn.4688888.xyz/js/腾讯视频.js"
 },
-{"key":"饺子影视","name":"🍎备份源八","type":3,"api":"csp_Jiaozi"},
-{"key":"1905","name":"🍎备份源九","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"永乐","name":"🍎备份源十","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js"},      
+        {
+      "key": "爱奇云",
+            "name": "🍎备份源九",
+            "type": 3,
+            "api": "http://nn.4688888.xyz/js/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/aiqiyi.js"
+},
+{"key":"1905","name":"🍎备份源十","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},     
 {"key":"柠檬","name":"🍎备份源机器人","type":3,"api":"csp_Nmvod","playerType":2,	"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
 {"key":"剧评","name":"🍎韩剧","type":3,"api":"csp_Jpys","playerType":1,"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
 {"key":"金牌123","name":"🥇金牌｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/金牌影院.js"},
