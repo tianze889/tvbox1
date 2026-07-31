@@ -15,7 +15,17 @@
       "playerType": 1,
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
-    {"key":"荐片","name":"🍎苹果源","api":"csp_JianPian","type":3},
+		     {
+      "key": "YunDuo",
+      "name": "🍎苹果源",
+      "type": 3,
+      "api": "csp_YunDuo",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
+
     {"key":"热播影视","name":"🍎备份源一","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
         {
             "key": "csp_非凡资源",
@@ -55,9 +65,29 @@
                 "欧美综艺"
             ]
         },
-        {"key":"农民影视","name":"🍎备份源三","type":3,"api":"csp_Wwys","ext":"https://vip.wwgz.cn:5200"},
+		    {
+      "key": "BuBu",
+      "name": "🍎备份源三",
+      "type": 3,
+      "api": "csp_BuBu",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
 {"key":"三六零","name":"🍎备份源四","type":3,"api":"csp_SP360"},
-{"key":"瓜子影视","name":"🍎备份源五","type":3,"api":"csp_Gz360"},
+				    {
+            "key": "热播App",
+            "name": "🍎备份源五",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
      {
       "key": "YunDuo",
       "name": "🍎备份源六",
