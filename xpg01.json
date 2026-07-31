@@ -98,13 +98,6 @@
       "changeable": 1,
       "filterable": 1
     },
-        {
-     "key": "芒果云",
-     "name": "🍎备份源七",
-     "type": 3,
-     "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-     "ext": "http://nn.4688888.xyz/js/芒果视频.js"
-},
   {
       "key": "优酷云",
       "name": "🍎备份源七",
