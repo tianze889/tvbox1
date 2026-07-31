@@ -17,15 +17,34 @@
     },
 		     {
       "key": "YunDuo",
-      "name": "🍎苹果源",
+      "name": "🍎苹果源1",
       "type": 3,
       "api": "csp_YunDuo",
-      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
+      "jar":"https://tvv.tw/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/ydapp.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1
     },
-
+    {
+      "key": "huaisang",
+      "name": "🍎苹果源2",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
+    },
+		    {
+      "key" : "PianKu8",
+      "name" : "🍎苹果源3",
+      "type" : 3,
+      "api" : "csp_PianKu8",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "ext" : "http://qkys.qukanwh.com"
+    },
     {"key":"热播影视","name":"🍎备份源一","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
         {
             "key": "csp_非凡资源",
@@ -88,12 +107,12 @@
                 "url": "http://v.rbotv.cn"
             }
         },
-     {
-      "key": "YunDuo",
+		    {
+      "key": "BuBu",
       "name": "🍎备份源六",
       "type": 3,
-      "api": "csp_YunDuo",
-      "jar":"https://tvv.tw/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/ydapp.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
+      "api": "csp_BuBu",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1
