@@ -591,12 +591,7 @@
             "type": 2,
             "url": "Parallel"
         },                
- {"name":"资源宝藏库解析","type":1,"url":"http://103.236.72.179:5677/index.php?url="},  
-        {
-            "name": "解析1",
-            "type": 1,
-            "url": "https://jx.xymp4.cc/?url="
-        },
+
         {
             "name": "解析2",
             "type": 1,
