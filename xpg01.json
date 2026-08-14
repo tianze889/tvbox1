@@ -22,19 +22,9 @@
             "api": "csp_Wwys",
             "ext": "https://vip.wwgz.cn:5200"
         },
-
-        {
-            "key": "爱看机器人",
-            "name": "🍎苹果源2",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "骚火App",
-            "name": "骚火┃App",
+            "name": "🍎苹果源2",
             "type": 3,
             "api": "csp_SaoHuo",
             "playerType": 2,
