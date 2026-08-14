@@ -85,16 +85,7 @@
                 "欧美综艺"
             ]
         },
-		    {
-      "key": "BuBu",
-      "name": "🍎备份源三",
-      "type": 3,
-      "api": "csp_BuBu",
-      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
+
 {"key":"三六零","name":"🍎备份源四","type":3,"api":"csp_SP360"},
 				    {
             "key": "热播App",
