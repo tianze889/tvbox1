@@ -15,16 +15,18 @@
       "playerType": 1,
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
-		     {
-      "key": "YunDuo",
-      "name": "🍎苹果源1",
-      "type": 3,
-      "api": "csp_YunDuo",
-      "jar":"https://tvv.tw/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/ydapp.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
+		    {
+            "key": "热播App",
+            "name": "🍎苹果源1",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
     {
       "key": "huaisang",
       "name": "🍎苹果源2",
