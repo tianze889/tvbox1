@@ -46,7 +46,7 @@
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
-    {"key":"热播影视","name":"🍎备份源一","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
+
         {
             "key": "csp_非凡资源",
             "name": "🍎备份源二",
@@ -108,16 +108,6 @@
                 "url": "http://v.rbotv.cn"
             }
         },
-		    {
-      "key": "BuBu",
-      "name": "🍎备份源六",
-      "type": 3,
-      "api": "csp_BuBu",
-      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
   {
       "key": "优酷云",
       "name": "🍎备份源七",
