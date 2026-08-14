@@ -85,7 +85,31 @@
                 "欧美综艺"
             ]
         },
-
+        {
+            "key": "量子资源",
+            "name": "🍎备份源三",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "泰国剧",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "动漫",
+                "体育",
+                "剧情片",
+                "动作片",
+                "爱情片",
+                "喜剧片"
+            ]
+        },
 {"key":"三六零","name":"🍎备份源四","type":3,"api":"csp_SP360"},
 				    {
             "key": "热播App",
@@ -123,72 +147,12 @@
 {"key":"柠檬","name":"🍎备份源机器人","type":3,"api":"csp_Nmvod","playerType":2,	"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
 
 {"key":"金牌123","name":"🥇金牌｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/金牌影院.js"},
-        {
-            "key": "量子资源",
-            "name": "🥑量子资源",
-            "type": 1,
-            "api": "http://cj.lziapi.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "国产剧",
-                "国产动漫",
-                "泰国剧",
-                "台湾剧",
-                "香港剧",
-                "欧美剧",
-                "韩国剧",
-                "日本剧",
-                "动漫",
-                "体育",
-                "剧情片",
-                "动作片",
-                "爱情片",
-                "喜剧片"
-            ]
-        },
-{"key":"海龟","name":"🥇海龟｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/海龟.js"},
-{"key":"鬼片","name":"🥇鬼片｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/鬼片之家.js"},
-{"key":"星辰影院","name":"🥇星辰┃影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/星辰影院.js"},
-{"key":"耐看","name":"🥇耐看┃影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/耐看.js"},
 {"key":"曼波动漫","name":"🤣曼波｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://app.omofun1.top","dataKey":"66dc309cbeeca454","dataIv":"66dc309cbeeca454","deviceId":"","version":""}},
 {"key":"魔都资源","name":"🤣魔都┃动漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
-            {
-      "key": "馆源",
-      "name": "🛣┃低端┃影视",
-      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
-      "type": 3,
-      "api": "csp_HB360"
-    },
-    {
-      "key": "酷浪",
-      "name": "😎酷浪蓝光",
-     "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
-      "type": 3,
-      "api": "csp_HBtiantian",
-      "ext": "http://v.lkuys.cn/"
-    },
-    {
-      "key": "追追",
-      "name": "🛫追追|弹幕",
-        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
-      "type": 3,
-      "api": "csp_Wcai",
-      "ext": "https://zjuys.com/"
-    },
-    {
-      "key": "风铃",
-      "name": "📲风铃|动漫",
-        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
-      "type": 3,
-      "api": "csp_HBfling"
-    },
     {
       "key": "360",
       "name": "🎠360|影视",
-        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
       "type": 3,
       "api": "csp_HBcms10",
       "ext": "https://360zy.com/api.php/provide/vod/"
@@ -196,7 +160,6 @@
     {
       "key": "暴风",
       "name": "🪻暴风|影视",
-         "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
       "type": 3,
       "api": "csp_HBcms10",
       "ext": "http://43.138.242.105:8686/api.php?key=104847348&id=id1"
@@ -204,7 +167,6 @@
     {
       "key": "maoyan",
       "name": "🌥️摩崖|影视",
-        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
       "type": 3,
       "api": "csp_HBcms10",
       "ext": "https://api.maoyanapi.top/api.php/provide/vod/"
@@ -212,7 +174,6 @@
     {
       "key": "天堂",
       "name": "🛰️天堂|影视",
-       "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
       "type": 3,
       "api": "csp_HBcms10",
       "ext": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/"
@@ -220,7 +181,6 @@
     {
       "key": "雪糕",
       "name": "☃️雪糕|影视",
-         "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;640309e2b59d0ebbfd5453b2e2f19835", 
       "type": 3,
       "api": "csp_HBPQ",
       "ext": "http://103.45.162.207:25252/仅供测试/lib/雪糕影视.json"
