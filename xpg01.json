@@ -46,19 +46,6 @@
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
-        {
-            "key": "优兔",
-            "name": "优兔┃App",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-                "dataKey": "UrWKPnmQWJA8AQzd",
-                "dataIv": "UrWKPnmQWJA8AQzd"
-            }
-        },
     {"key":"热播影视","name":"🍎备份源一","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
         {
             "key": "csp_非凡资源",
