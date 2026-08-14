@@ -149,42 +149,6 @@
 {"key":"金牌123","name":"🥇金牌｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/金牌影院.js"},
 {"key":"曼波动漫","name":"🤣曼波｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://app.omofun1.top","dataKey":"66dc309cbeeca454","dataIv":"66dc309cbeeca454","deviceId":"","version":""}},
 {"key":"魔都资源","name":"🤣魔都┃动漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-
-    {
-      "key": "360",
-      "name": "🎠360|影视",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "ext": "https://360zy.com/api.php/provide/vod/"
-    },
-    {
-      "key": "暴风",
-      "name": "🪻暴风|影视",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "ext": "http://43.138.242.105:8686/api.php?key=104847348&id=id1"
-    },
-    {
-      "key": "maoyan",
-      "name": "🌥️摩崖|影视",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "ext": "https://api.maoyanapi.top/api.php/provide/vod/"
-    },
-    {
-      "key": "天堂",
-      "name": "🛰️天堂|影视",
-      "type": 3,
-      "api": "csp_HBcms10",
-      "ext": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/"
-    },
-    {
-      "key": "雪糕",
-      "name": "☃️雪糕|影视",
-      "type": 3,
-      "api": "csp_HBPQ",
-      "ext": "http://103.45.162.207:25252/仅供测试/lib/雪糕影视.json"
-    },
         {
       "key": "柠檬",
       "name": "🗼柠檬影视",
