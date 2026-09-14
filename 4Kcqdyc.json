@@ -5,17 +5,9 @@
 "warningText":"📢软件由资源宝藏库制作维护",
 
 "sites": [
- {
-       "key": "ttys",
-            "name": "📢4K超清电影仓--资源宝藏库制作维护",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/Yoursmile.jar",
-            "type": 3,
-            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
-            "ext": "http://49.232.165.72:1234/js/qq.js"
-        },
 	{
             "key": "小果",
-            "name": "🍏百忙无果丨4K-1",
+            "name": "📢4K超清电影仓--资源宝藏库制作维护",
             "type": 3,
 		    "jar": "https://wget.la/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/xiaoya_proxy_2.jar",
             "api": "https://wget.la/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/js/drpy2.min.js",
