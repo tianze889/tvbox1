@@ -15,7 +15,308 @@
             "timeout": 12,
             "ext": "http://v.rbotv.cn"
         },	
-	
+        {
+            "key": "csp_Wwys",
+            "name": "🛸农民┃零三",
+            "type": 3,
+            "api": "csp_Wwys",
+            "timeout": 12,
+            "ext": "https://vip.wwgz.cn:5200"
+        },
+        {
+            "key": "csp_Gz360",
+            "name": "👽瓜子┃零四",
+            "type": 3,
+            "timeout": 12,
+            "searchable": 1,
+            "quickSearch": 0,
+            "api": "csp_Gz360"
+        },
+        {
+            "key": "csp_PianKu8",
+            "name": "✅山楂┃零六",
+            "type": 3,
+            "api": "csp_PianKu8"
+        },
+        {
+            "key": "新首发",
+            "name": "🍊首发┃零八",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+        },
+        {
+            "key": "枫叶影视",
+            "name": "🚥枫叶┃零九",
+            "type": 3,
+            "api": "csp_FengYe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.vip1949.com/"
+        },
+        {
+            "key": "双星99",
+            "name": "📶双星┃零十",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://103.217.190.91:19987/app/bn",
+                "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+                "versionName": "3.5.8",
+                "name": "半日闲",
+                "package": "com.yf.lelian",
+                "buildNumber": "2001",
+                "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+            }
+        },
+        {
+            "key": "咕咕动漫",
+            "name": "🌸咕咕┃十一",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD|V119|okhttp/3.10"
+        },
+        {
+            "key": "csp_duanju",
+            "name": "📡盒马┃十二",
+            "type": 3,
+            "timeout": 12,
+            "api": "csp_HeMa"
+        },
+        {
+            "key": "csp_XY",
+            "name": "🌅星丫┃十三",
+            "type": 3,
+            "searchable": 1,
+            "timeout": 12,
+            "api": "csp_AppXY",
+            "ext": ""
+        },
+        {
+            "key": "88看球",
+            "name": "体育┃十四",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "timeout": 12,
+            "order_num": 0,
+            "changeable": 0
+        },
+        {
+            "key": "瓜子",
+            "name": "体育┃十五",
+            "type": 3,
+            "api": "csp_GuaziTY",
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "timeout": 12,
+            "order_num": 0,
+            "changeable": 0
+        },
+        {
+            "key": "csp_SaoHuo",
+            "name": "火火┃十六",
+            "type": 3,
+            "api": "csp_SaoHuo"
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长┃十七",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "ext": "https://www.4kcz.com"
+        },
+        {
+            "key": "麦田",
+            "name": "麦田┃十八",
+            "type": 3,
+            "api": "csp_AppV6",
+            "ext": "http://172.247.227.203:25321/mtys.php"
+        },
+        {
+            "key": "feiyu_video",
+            "name": "飞娱┃十九",
+            "type": 3,
+            "api": "csp_Feiyu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "剧圈99",
+            "name": "剧圈┃二一",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://124.221.3.182:19987/app/bn",
+                "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+                "versionName": "1.2.0",
+                "name": "剧圈圈",
+                "package": "com.qingtangxiaozhuan.xyz",
+                "buildNumber": "2002",
+                "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+            }
+        },
+        {
+            "key": "天堂",
+            "name": "天堂┃二二",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "电影天堂",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "commonKey": "ed5fdsgucxumegqa",
+                "pkg": "com.dytiantang.one",
+                "host": "",
+                "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+                "version": "3.0.0.7",
+                "decrypt": "0"
+            }
+        },
+        {
+            "key": "橘汁",
+            "name": "橘汁┃二三",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "橘汁",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "commonKey": "ed5fdsgucxumegqa",
+                "pkg": "com.lxf.snzlcgtzxyx",
+                "host": "",
+                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+                "version": "3.0.2.1",
+                "decrypt": "1"
+            }
+        },
+        {
+            "key": "荐片",
+            "name": "荐片┃二四",
+            "quickSearch": 0,
+            "changeable": "0",
+            "searchable": 1,
+            "timeout": 15,
+            "type": 3,
+            "api": "csp_Jianpian",
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
+            "ext": "https://api.ztcgi.com"
+        },
+        {
+            "key": "csp_APPTe",
+            "name": "天鹅┃二五",
+            "type": 3,
+            "timeout": 12,
+            "searchable": 1,
+            "quickSearch": 0,
+            "api": "csp_AppTe"
+        },
+        {
+            "key": "csp_Jpys",
+            "name": "金牌┃二六",
+            "type": 3,
+            "timeout": 12,
+            "searchable": 1,
+            "quickSearch": 0,
+            "api": "csp_Jpys",
+            "ext": "https://y2s52n7.com"
+        },
+        {
+            "key": "YunZhenXiang",
+            "name": "秒播┃二七",
+            "type": 3,
+            "api": "csp_YunZhenXiang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "index_url": "https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json",
+                "key_api": "https://www.tangsan.fun/zx.php"
+            }
+        },
+        {
+            "key": "Osstexll",
+            "name": "八戒┃二八",
+            "type": 3,
+            "api": "csp_Tounimabi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": ""
+        },
+        {
+            "key": "布布影视APP",
+            "name": "大鹅┃二九",
+            "type": 3,
+            "api": "csp_AppYd",
+            "ext": {
+                "host": "https://bubutv.top",
+                "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
+                "updateId": "38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7",
+                "deviceBrand": "vivo",
+                "deviceModel": "V2309A",
+                "pkg": "com.sunshine.tv",
+                "sk": "SK-thanks",
+                "ver": "6"
+            }
+        },
+        {
+            "key": "云朵影视APP",
+            "name": "云朵┃三十",
+            "type": 3,
+            "api": "csp_AppYd",
+            "ext": {
+                "host": "https://ds3xy2yunsa.xyz",
+                "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
+                "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
+                "deviceBrand": "vivo",
+                "deviceModel": "V2309A",
+                "pkg": "com.tvcloud.io",
+                "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
+                "ver": "1"
+            }
+        },
+        {
+            "key": "一碗",
+            "name": "一碗┃肥二",
+            "type": 3,
+            "api": "csp_AppGet",
+            "jar": "https://img2.gelonghui.com/library/f7c90-40d96eab-56f3-4c13-a248-8d80bcb9b83a.png;md5;f7c90ebd0a6632f3347eeeb8d9bd555e",
+            "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
+        },
+        {
+            "key": "蔬菜",
+            "name": "蔬菜┃肥五",
+            "type": 3,
+            "api": "csp_AppGet",
+            "jar": "https://img2.gelonghui.com/library/f7c90-40d96eab-56f3-4c13-a248-8d80bcb9b83a.png;md5;f7c90ebd0a6632f3347eeeb8d9bd555e",
+            "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
+        },	
 	
 	
 	{
@@ -79,41 +380,6 @@
 
 //jar
 
-    {
-      "key": "csp_GuaZi1",
-      "name": "🚀瓜子┃秒播",
-      "type": 3,
-      "api": "csp_GuaziAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "sites": "",
-        "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
-      },
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0606/11/e73824ddbe2d4f28b3e3ccc699d0f064.png;md5;8C8DA63F7C5D8628D0B40FD03632C3B4"
-    },
-{"name":"🚀秋天┃秒播1","key":"NewGrV2","type":3,"api":"csp_NewGrV2Amns","searchable":1,"quickSearch":1,"changeable":1,"ext": {"sites": "","filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"},"jar": "https://ncstatic.clewm.net/rsrc/2026/0606/11/e73824ddbe2d4f28b3e3ccc699d0f064.png;md5;8C8DA63F7C5D8628D0B40FD03632C3B4"},
-{"name":"📦①线┃秒播","key":"AppV7Fz","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Fz"},
-{"name":"📦②线┃秒播","key":"AppV7Xy","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xy"},
-{"name":"📦③线┃秒播","key":"AppV7Zjdr","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Zjdr"},
-{"name":"📦④线┃秒播","key":"AppV7Xyz","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xyz"},
-{"name":"📦⑤线┃秒播","key":"AppV7Xnm","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xnm"},
-{"name":"📦⑥线┃秒播","key":"AppV7Mtq","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Mtq"},
-{"name":"📦⑦线┃秒播","key":"AppV7Llq","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Llq"},
-{"name":"📦⑧线┃秒播","key":"AppV7Xsz","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},
-{"name":"📦⑨线┃秒播","key":"AppV7Xhr","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xhr"},
-{"name":"📦师兄┃秒播","key":"AppV7Dsx","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},  
-{
-      "key": "剧评",
-      "name": "📺热播┃4K秒播",
-      "type": 3,  
-      "api": "csp_Jpys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "playerType": 1,
-      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
-    },
     {
       "key": "追剧",
       "name": "☃️追剧蓝光",
