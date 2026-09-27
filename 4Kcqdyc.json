@@ -5,9 +5,22 @@
 "warningText":"📢软件由资源宝藏库制作维护",
 
 "sites": [
+	        {
+            "key": "天天",
+            "name": "📢4K超清电影仓--资源宝藏库制作维护",
+            "type": 3,
+            "quickSearch": 1,
+            "searchable": 1,
+            "api": "csp_AppRJ",
+            "timeout": 12,
+            "ext": "http://v.rbotv.cn"
+        },	
+	
+	
+	
 	{
             "key": "小果",
-            "name": "📢4K超清电影仓--资源宝藏库制作维护",
+            "name": "🌸果果视频┃4-21",
             "type": 3,
 		    "jar": "https://wget.la/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/xiaoya_proxy_2.jar",
             "api": "https://wget.la/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/js/drpy2.min.js",
@@ -65,16 +78,7 @@
  {"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 
 //jar
-	        {
-            "key": "天天",
-            "name": "热播┃零二",
-            "type": 3,
-            "quickSearch": 1,
-            "searchable": 1,
-            "api": "csp_AppRJ",
-            "timeout": 12,
-            "ext": "http://v.rbotv.cn"
-        },
+
     {
       "key": "csp_GuaZi1",
       "name": "🚀瓜子┃秒播",
