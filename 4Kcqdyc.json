@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://ogogogg.v.nxog.top/m/t/",
 "logo":"https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/1/spider.jar",
+"spider":"https://chuxinya.top/f/qlLLcX/bh0822.jar",
 "warningText":"📢软件由资源宝藏库制作维护",
 
 "sites": [
@@ -65,6 +65,16 @@
  {"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 
 //jar
+	        {
+            "key": "天天",
+            "name": "热播┃零二",
+            "type": 3,
+            "quickSearch": 1,
+            "searchable": 1,
+            "api": "csp_AppRJ",
+            "timeout": 12,
+            "ext": "http://v.rbotv.cn"
+        },
     {
       "key": "csp_GuaZi1",
       "name": "🚀瓜子┃秒播",
