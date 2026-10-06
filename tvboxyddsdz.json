@@ -955,11 +955,11 @@
       "ext": "https://ogogogg.v.nxog.top/zm/sd?b=ogogogg"
     }
   ],
-  "parses": [
+ "parses": [
 	    {
       "name": "资源宝藏库4K解析",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
+      "url": "https://www.iqiyizyjx.com/?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
@@ -979,7 +979,7 @@
     {
       "name": "资源宝藏库-付费解析2",
       "type": 0,
-      "url": "https://jx.2s0.cn/player/?url=",
+      "url": "https://jx.yhzybf.com/player/jx.php?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
@@ -1029,7 +1029,7 @@
     {
       "name": "资源宝藏库-付费解析7",
       "type": 0,
-      "url": "https://www.xxphp.cn/jx/?api=2400222840648882&url=",
+      "url": "https://hhzyjiexi.com/play/?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
@@ -1049,7 +1049,7 @@
 	    {
       "name": "资源宝藏库-付费解析9",
       "type": 0,
-      "url": "https://jx.xmflv.cc/?url=",
+      "url": "https://hhzyjiexi.com/play/?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
@@ -1069,7 +1069,7 @@
 	    {
       "name": "资源宝藏库-付费解析11",
       "type": 0,
-      "url": "https://www.pouyun.com/?url=",
+      "url": "https://dxfbk.com/?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
@@ -1096,7 +1096,7 @@
         }
       }
     },	
-{"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
+{"name":"线路1","type":0,"url":"https://jiexi.okzyw.org/m3u8/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
 {"name":"线路2","type":0,"url":"http://www.ckplayer.vip/jiexi/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {"name":"线路3","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {"name":"线路4","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}},
