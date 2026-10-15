@@ -183,19 +183,6 @@
             "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
         },	
 
-	{
-            "key": "小果",
-            "name": "🌸果果视频┃4-21",
-            "type": 3,
-		    "jar": "https://wget.la/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/jar/xiaoya_proxy_2.jar",
-            "api": "https://wget.la/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "https://wget.la/https://raw.githubusercontent.com/tianze889/tvbox1/refs/heads/main/js/百忙无果.js"
-        },
         {
         "key": "csp_iqiyi",
         "name": "📤奇艺影视┃4-2K",
