@@ -328,51 +328,7 @@
     ],
     "spider": "https://chuxinya.top/f/qlk5TX/bh0822.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "lives": [
-        {
-            "name": "线路①",
-            "type": 0,
-            "url": "http://rihou.cc:567/gggg.nzk",
-            "playerType": 2,
-            "ua": "okhttp/3",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "线路A",
-            "type": 0,
-            "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-            "playerType": 2,
-            "ua": "okhttp/3",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "冰茶②",
-            "type": 0,
-            "url": "https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "电影③",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Sport",
-            "playerType": 2,
-            "ua": "okhttp/3",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "AI线路",
-            "type": 0,
-            "url": "http://jar.jsy666.xyz/box/tvzbjr.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        }
-    ],
+    "lives":[{"name":"咪咕电视","type":0,"url":"http://www.52top.com.cn:678/downloads/migu.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10}],
 "parses": [
 	    {
       "name": "资源宝藏库4K解析",
