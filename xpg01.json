@@ -2,7 +2,7 @@
     "sites": [
          {
             "key": "豆瓣",
-            "name": "🔍小苹果荐片",
+            "name": "🔍小苹果荐片--资源宝藏库维护",
             "type": 3,
             "api": "csp_Douban",
             "jar": "https://chuxinya.top/f/v8pzFA/bh2601251.jar",
