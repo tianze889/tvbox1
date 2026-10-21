@@ -1,10 +1,11 @@
 {
     "sites": [
-        {
+         {
             "key": "豆瓣",
             "name": "🔍小苹果荐片",
             "type": 3,
             "api": "csp_Douban",
+            "jar": "https://chuxinya.top/f/v8pzFA/bh2601251.jar",
             "searchable": 0,
             "changeable": 1
         },
@@ -89,7 +90,15 @@
             "api": "csp_AppV6",
             "ext": "http://172.247.227.203:25321/mtys.php"
         },
-
+        {
+            "key": "feiyu_video",
+            "name": "🍎备份源四",
+            "type": 3,
+            "api": "csp_Feiyu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "剧圈99",
             "name": "🍎备份源五",
