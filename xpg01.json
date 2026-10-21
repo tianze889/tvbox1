@@ -2,10 +2,9 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🔍小苹果荐片1",
+            "name": "🔍小苹果荐片",
             "type": 3,
             "api": "csp_Douban",
-            "jar": "https://gitee.com/KYSY1/dyy/raw/master/bh2601251.jar",
             "searchable": 0,
             "changeable": 1
         },
