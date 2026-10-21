@@ -1,11 +1,13 @@
 {
     "sites": [
-	  {
-            "key": "豆瓣jar",
-            "name": "🔍小苹果荐片",
+        {
+            "key": "豆瓣",
+            "name": "🔍小苹果荐片1",
             "type": 3,
             "api": "csp_Douban",
-            "searchable": 0
+            "jar": "https://gitee.com/KYSY1/dyy/raw/master/bh2601251.jar",
+            "searchable": 0,
+            "changeable": 1
         },
 	        {
             "key": "天天",
@@ -17,6 +19,14 @@
             "timeout": 12,
             "ext": "http://v.rbotv.cn"
         },	
+		   {
+            "key": "csp_Wwys",
+            "name": "🍎苹果源1",
+            "type": 3,
+            "api": "csp_Wwys",
+            "timeout": 12,
+            "ext": "https://vip.wwgz.cn:5200"
+        },
         {
             "key": "csp_Gz360",
             "name": "🍎苹果源2",
