@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://ogogogg.v.nxog.top/m/t/",
 "logo":"https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
-"spider":"https://chuxinya.top/f/qlk5TX/bh0822.jar",
+"spider":"https://cdn.jsdmirror.com/gh/tianze889/tvbox1@main/jar/bh0822.js",
 "warningText":"📢软件由资源宝藏库制作维护",
 
 "sites": [
@@ -10,7 +10,7 @@
             "name": "📢4K超清电影仓--资源宝藏库制作维护",
             "type": 3,
             "api": "csp_Douban",
-            "jar": "https://chuxinya.top/f/v8pzFA/bh2601251.jar",
+            "jar": "https://cdn.jsdmirror.com/gh/tianze889/tvbox1@main/jar/bh2601251.js",
             "searchable": 0,
             "changeable": 1
         },
