@@ -4,7 +4,7 @@
             "key": "豆瓣",
             "name": "🔍小苹果荐片--资源宝藏库维护",
             "type": 3,
-            "jar": "https://chuxinya.top/f/v8pzFA/bh2601251.jar",
+            "jar": "https://cdn.jsdmirror.com/gh/tianze889/tvbox1@main/jar/bh2601251.js",
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1
@@ -258,9 +258,9 @@
             "filterable": 1
         }
     ],
-    "spider": "https://chuxinya.top/f/qlk5TX/bh0822.jar",
+    "spider": "https://cdn.jsdmirror.com/gh/tianze889/tvbox1@main/jar/bh0822.js",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-"lives":[{"name":"初秋语","type":0,"url":"http://www.52top.com.cn:678/downloads/migu.txt"}],
+"lives":[{"name":"migu","type":0,"url":"http://www.52top.com.cn:678/downloads/migu.txt"}],
 "parses": [
 	    {
       "name": "资源宝藏库4K解析",
